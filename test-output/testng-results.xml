@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51501" started-at="2020-10-05T13:51:12 EDT" finished-at="2020-10-05T13:52:03 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51501" started-at="2020-10-05T13:51:12 EDT" finished-at="2020-10-05T13:52:03 EDT">
+      <class name="com.qa.verizon.test.SamsungS20PageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.verizon.test.SamsungS20PageTest@4f063c0a]" name="setUp" is-config="true" duration-ms="12079" started-at="2020-10-05T13:51:12 EDT" finished-at="2020-10-05T13:51:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getPageTitle()[pri:1, instance:com.qa.verizon.test.SamsungS20PageTest@4f063c0a]" name="getPageTitle" duration-ms="326" started-at="2020-10-05T13:51:24 EDT" description="verify page title" finished-at="2020-10-05T13:51:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.verizon.test.SamsungS20PageTest@4f063c0a]" name="tearDown" is-config="true" duration-ms="131" started-at="2020-10-05T13:51:24 EDT" finished-at="2020-10-05T13:51:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.verizon.test.SamsungS20PageTest@4f063c0a]" name="setUp" is-config="true" duration-ms="12978" started-at="2020-10-05T13:51:24 EDT" finished-at="2020-10-05T13:51:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="preOrderComponents()[pri:2, instance:com.qa.verizon.test.SamsungS20PageTest@4f063c0a]" name="preOrderComponents" duration-ms="25785" started-at="2020-10-05T13:51:37 EDT" description="order button,zip code,location,new customer" finished-at="2020-10-05T13:52:03 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preOrderComponents -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.verizon.test.SamsungS20PageTest@4f063c0a]" name="tearDown" is-config="true" duration-ms="169" started-at="2020-10-05T13:52:03 EDT" finished-at="2020-10-05T13:52:03 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.verizon.test.SamsungS20PageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
